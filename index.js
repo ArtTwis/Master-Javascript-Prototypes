@@ -90,7 +90,7 @@ person2.__proto__ = person;
 console.log("Person2.age :>", person2.age);
 
 
-
+// -----------------------------------------
 
 
 // Tricky
